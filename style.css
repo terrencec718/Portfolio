@@ -1,0 +1,50 @@
+body {
+    background-image: url(Theblockweb.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 2%;
+}
+
+h1 {
+    color: white;
+}
+h2 {
+    color:rgb(18, 212, 115);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1.5rem;
+    font-weight:normal
+}
+p {
+    color:rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1rem;
+    font-weight:normal
+}
+ a {
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 80px;
+}
+section {
+   
+    margin: 2%
+}
+.container {
+    margin: 100px;
+
+}
+article {
+    color:rgb(32, 30, 30);
+    font-family:'Courier New', Courier, monospace;
+    font-size:1rem;
+    font-weight:normal;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+.underline_Links {
+    text-decoration: none;
+}
